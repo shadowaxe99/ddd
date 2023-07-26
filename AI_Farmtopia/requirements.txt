@@ -15,7 +15,7 @@ google-auth==1.35.0
 google-auth-oauthlib==0.4.6
 google-auth-httplib2==0.1.0
 google-api-python-client==2.20.0
-oauthlib==3.1.1
+oauthlib==3.2.2
 httplib2==0.20.1
 pytz==2021.1
 python-dateutil==2.8.2
