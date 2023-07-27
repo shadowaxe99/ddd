@@ -37,7 +37,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 werkzeug==2.0.1
 wheel==0.37.0
-pygments==2.10.0
+pygments==2.15.0
 pyparsing==2.4.7
 cycler==0.10.0
 kiwisolver==1.3.2
